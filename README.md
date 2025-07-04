@@ -34,12 +34,7 @@ The site features a dynamic, image-rich layout that gives a visual walkthrough o
 
 ## 🚧 Project Status
 
-This is an **ongoing project**. Future updates may include:
-
-- Enhanced client portal
-- Project filtering and search functionality
-- Multilingual support
-- Interactive timeline for milestones
+This is an **ongoing project**.
 
 ---
 
